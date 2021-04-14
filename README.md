@@ -1,2 +1,2 @@
 # Data-Science
-Data Science Projects
+Repository containing portfolio of data science projects completed by me during the training courses at Yandex.Praktikum
