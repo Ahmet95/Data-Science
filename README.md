@@ -19,7 +19,7 @@ Repository containing portfolio of data science projects completed by me during 
     <td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/03.%20Research%20of%20ads%20for%20the%20sale%20of%20apartments/ResearchofAdsforApartmentsSale%20(2).ipynb</a>Research of ads for the sale of apartments</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/03.%20Research%20of%20ads%20for%20the%20sale%20of%20apartments/ResearchofAdsforApartmentsSale%20(2).ipynb">Research of ads for the sale of apartments</a></td>
     <td>Determining the market value of apartments in St. Petersburg: tracking anomalies and price increases depending on the area</td>
     <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
   </tr>
