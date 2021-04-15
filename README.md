@@ -24,24 +24,24 @@ Repository containing portfolio of data science projects completed by me during 
     <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
-    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/04.%20Determination%20of%20a%20promising%20tariff%20for%20a%20telecom%20company/Determination%20of%20a%20promising%20tariff%20for%20a%20telecom%20company.ipynb">Determination of a promising tariff for a telecom company</a></td>
+    <td>Analysis of the popularity of a mobile tariff.</td>
+    <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
-    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
-    <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/05.%20Finding%20Patterns%20in%20Game%20Sales%20Data/Finding%20Patterns%20in%20Game%20Sales%20Data.ipynb">Predicting taxi trips</a>Finding Patterns in Game Sales Data</td>
+    <td>Determining the dependence of game sales on consoles by region.</td>
+    <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/11-car-price-prediction">Car price prediction</a></td>
-    <td>Trained the Machine Learning model to determine the market value of the car.</td>
-    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/06.%20Tariff%20recommendation/Tariff%20recommendation.ipynb">Tariff recommendation</a></td>
+    <td>Building a model for the classification problem, selects a suitable mobile tariff.</td>
+    <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/10-the-algorithm-for-data-protection">The Algorithm for data protection</a></td>
-    <td>The personal information of the clients of the insurance company was protected (encrypted), using the data conversion method..</td>
-    <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/07.%20Customer%20churn/Customer%20churn.ipynb">Customer churn</a></td>
+    <td>Predicted whether the client will leave the bank in the near future or not.</td>
+    <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/09-machine-learning-model-for-a-metalworking-enterprise">Machine Learning Model for a metalworking enterprise</a></td>
