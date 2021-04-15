@@ -14,14 +14,14 @@ Repository containing portfolio of data science projects completed by me during 
     <td>Python, Pandas, Numpy</td>
   </tr>
       <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
-    <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
-    <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/02.%20Borrower%20Reliability%20Research/BorrowerReliabilityResearch.ipynb">Borrower Reliability Research</a></td>
+    <td>Research of the client's solvency. And the impact of marital status on loan approval.</td>
+    <td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/14-data_research_of_airline_company">Data Research of airline company</a></td>
-    <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
-    <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/03.%20Research%20of%20ads%20for%20the%20sale%20of%20apartments/ResearchofAdsforApartmentsSale%20(2).ipynb</a>Research of ads for the sale of apartments</td>
+    <td>Determining the market value of apartments in St. Petersburg: tracking anomalies and price increases depending on the area</td>
+    <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
