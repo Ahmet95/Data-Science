@@ -2,12 +2,6 @@
 Repository containing portfolio of data science projects completed by me during the training courses at  [Yandex.Praktikum](https://praktikum.yandex.ru/) 
 ![Practicum by Yandex](https://irecommend.ru/sites/default/files/product-images/1594818/FWDFQo8aogIbhhuI8bqMQ.png)
 
-| Project       | Description           |  Useed libraries  |
-| ------------- |:---------------------:| -----------------:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 <table width=100% valign=top >
   <tr>
     <td width=25%>Project</td>
@@ -15,9 +9,9 @@ Repository containing portfolio of data science projects completed by me during 
     <td width=20%>Used libraries</td>
   </tr>
         <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
-    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
-    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/01.%20YandexMusic/YandexMusic.ipynb">Yandex Music</a></td>
+    <td>Comparison of music preferences of music service users by day.</td>
+    <td>Python, Pandas, Numpy</td>
   </tr>
       <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
