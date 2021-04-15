@@ -44,37 +44,36 @@ Repository containing portfolio of data science projects completed by me during 
     <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/09-machine-learning-model-for-a-metalworking-enterprise">Machine Learning Model for a metalworking enterprise</a></td>
-    <td>Developed a model predicting the recovery rate of gold from gold ore.
-The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
-    <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields">Development of new oil fields</a></td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/08.%20Choosing%20a%20location%20for%20a%20well/Choosing%20a%20location%20for%20a%20well.ipynb">Choosing a location for a well</a></td>
     <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
     <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/07-bank-churn-prediction">Bank Churn prediction</a></td>
-    <td>Analysis of the outflow of clients from the bank to select a strategy (retaining old clients or attracting new clients)</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/09.%20Prediction%20of%20the%20recovery%20rate%20of%20gold%20from%20gold%20ore/prediction%20of%20the%20recovery%20rate%20of%20gold%20from%20gold%20ore.ipynb">Prediction of the recovery rate of gold from gold ore</a></td>
+    <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
+    <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/09.%20Prediction%20of%20the%20recovery%20rate%20of%20gold%20from%20gold%20ore/prediction%20of%20the%20recovery%20rate%20of%20gold%20from%20gold%20ore.ipynb">Prediction of the recovery rate of gold from gold ore</a></td>
+    <td>Developed a model predicting the recovery rate of gold from gold ore. The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
     <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/06-classifying-profitable-plan-for-a-telecom-company">Classifying profitable plan for a telecom company</a></td>
-    <td>Built the first Machine Learning model for the classification problem, which finds a suitable tariff</td>
-    <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/10.%20Protection%20of%20personal%20data%20of%20clients/Protection%20of%20personal%20data%20of%20clients.ipynb">Protection of personal data of clients.</a></td>
+    <td>Using the data conversion method, we protected the client base</td>
+    <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
   </tr>
   <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/05-patterns-that-determine-the-success-of-game-platforms">Patterns that determine the success of game platforms.</a></td>
-    <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game
+  <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/11.%20Determining%20the%20cost%20of%20cars/Determining%20the%20cost%20of%20cars.ipynb">Determining the cost of cars.</a></td>
+    <td>Trained the Machine Learning model to determine the market value of the car.
 </td>
-    <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
+    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
   </tr>
   <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/04-determination-of-a-profitable-plan-for-a-telecom-company">Determination of a profitable plan for a telecom company</a></td>
-    <td>Based on the data of the mobile operators customers, i analyzed customer behavior and found the optimal plan for the company.
+  <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/12.%20Predict%20the%20number%20of%20taxi%20orders%20for%20the%20next%20hour/Predict%20the%20number%20of%20taxi%20orders%20for%20the%20next%20hour.ipynb">Predict the number of taxi orders for the next hour</a></td>
+    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour..
 </td>
-    <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
+    <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
   </tr>
      <tr>
   <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/03-real-estate-market-analysis">Real estate market analysis</a></td>
