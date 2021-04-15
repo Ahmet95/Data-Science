@@ -29,7 +29,7 @@ Repository containing portfolio of data science projects completed by me during 
     <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Statistical Hypothesis testing, Math, Seaborn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/05.%20Finding%20Patterns%20in%20Game%20Sales%20Data/Finding%20Patterns%20in%20Game%20Sales%20Data.ipynb">Predicting taxi trips</a>Finding Patterns in Game Sales Data</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/05.%20Finding%20Patterns%20in%20Game%20Sales%20Data/Finding%20Patterns%20in%20Game%20Sales%20Data.ipynb">Predicting taxi trips</a></td>
     <td>Determining the dependence of game sales on consoles by region.</td>
     <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
   </tr>
@@ -76,19 +76,19 @@ Repository containing portfolio of data science projects completed by me during 
     <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
   </tr>
      <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/03-real-estate-market-analysis">Real estate market analysis</a></td>
-    <td>Using data from the Yandex.Realty service, i determined the market value of real estate objects and typical parameters of apartments.</td>
-    <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Data Visualization, Preprocessing Data, Math</td>
+  <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/13.%20Toxic%20comments/Toxic%20comments.ipynb">Toxic comments</a></td>
+    <td>Twitter Comment Toxicity Level Classification.</td>
+    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
   </tr>
    <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/02-research-on-the-reliability-of-borrowers">Research on the reliability of borrowers</a></td>
-    <td>Based on statistics on the paying capacity of clients. I researched is the marital status and the number of the client's children affect the fact of the loan repayment on time</td>
-    <td>preprocessing data, Python, Pandas, PyMystem3,Lemmatization, SciPy, Matplotlib, Seaborn, SciKitLearn,numpy
+  <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/14.%20Analytics%20in%20the%20airline/Analytics%20in%20the%20airline.ipynb">Analytics in the airline</a></td>
+    <td>Perform uploads and preparation of airline data using SQL</td>
+    <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing
 </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/01-yandex-music">Yandex Music</a></td>
-    <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
-    <td>Python, Pandas, Numpy</td>
+    <td><a href="https://github.com/Ahmet95/Data-Science/blob/main/15.%20Age%20classification%20by%20photo/Age%20classification%20by%20photo.ipynb">Age classification by photo</a></td>
+    <td>Build a machine learning model that determines the approximate age of a person from a photo.</td>
+    <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
   </tr>
 </table>
